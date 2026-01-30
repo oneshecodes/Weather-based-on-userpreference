@@ -130,3 +130,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - [GROQ](https://console.groq.com/) for AI analysis
 - [Streamlit](https://streamlit.io/) for the web interface
 - [Plotly](https://plotly.com/) for interactive charts
+

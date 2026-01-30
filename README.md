@@ -1,3 +1,4 @@
+<img width="1431" height="837" alt="output" src="https://github.com/user-attachments/assets/eb43a51c-11dd-4644-af57-3616cf0ba54b" />
 # Weather-based-on-userpreference
 Weather Report Generator 🌤️
 A sophisticated weather analysis tool that provides personalized weather reports and recommendations based on your planned activities. Built with Streamlit and powered by AI for intelligent weather analysis.
